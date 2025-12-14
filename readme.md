@@ -1,8 +1,4 @@
-# Notes
-
-```sh
-rustup run doc --std
-```
+# Advent of Code 2025
 
 ## Day 01 Part 1
 
